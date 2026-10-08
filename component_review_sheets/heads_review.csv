@@ -1,0 +1,11 @@
+id,category,file,display_name,face_shape,face_width,jaw_shape,chin_shape,aliases,review_status,notes
+head_01,heads,heads/head_01.png,Head 01,oval,medium,rounded,rounded,oval face | rounded oval face,provisional,Closest visual classification; confirm with domain reviewer
+head_02,heads,heads/head_02.png,Head 02,heart,medium,soft,pointed,heart-shaped face | broad forehead pointed chin,provisional,Closest visual classification; confirm with domain reviewer
+head_03,heads,heads/head_03.png,Head 03,heart,medium,angular,pointed,angular heart-shaped face | tapered face,provisional,Closest visual classification; confirm with domain reviewer
+head_04,heads,heads/head_04.png,Head 04,triangular,narrow,soft,pointed,triangular face | narrow pointed face,provisional,Closest visual classification; confirm with domain reviewer
+head_05,heads,heads/head_05.png,Head 05,round,medium,rounded,pointed,round face | rounded face with pointed chin,provisional,Closest visual classification; confirm with domain reviewer
+head_06,heads,heads/head_06.png,Head 06,square,broad,square,square,square face | broad square face,provisional,Closest visual classification; confirm with domain reviewer
+head_07,heads,heads/head_07.png,Head 07,oblong,narrow,soft,rounded,oblong face | long narrow face,provisional,Closest visual classification; confirm with domain reviewer
+head_08,heads,heads/head_08.png,Head 08,oblong,broad,square,rounded,broad oblong face | long broad face,provisional,Closest visual classification; confirm with domain reviewer
+head_09,heads,heads/head_09.png,Head 09,square,broad,rounded,square,broad face | rounded square face,provisional,Closest visual classification; confirm with domain reviewer
+head_10,heads,heads/head_10.png,Head 10,oval,narrow,soft,rounded,long oval face | narrow oval face,provisional,Closest visual classification; confirm with domain reviewer

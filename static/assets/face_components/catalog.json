@@ -1,0 +1,3282 @@
+{
+  "schema_version": "1.0",
+  "catalog_status": "provisional_semantic_labels",
+  "canvas": {
+    "width": 620,
+    "height": 620,
+    "background": "white"
+  },
+  "layer_order": [
+    "necks",
+    "ears",
+    "heads",
+    "eyes",
+    "eyebrows",
+    "noses",
+    "lips",
+    "moustaches",
+    "beards",
+    "hair",
+    "glasses",
+    "marks"
+  ],
+  "components": {
+    "heads": [
+      {
+        "id": "head_01",
+        "display_name": "Head 01",
+        "file": "heads/head_01.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 288,
+          "height": 464,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 166,
+          "y": 82,
+          "width": 288,
+          "height": 464,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "oval",
+          "face_width": "medium",
+          "jaw_shape": "rounded",
+          "chin_shape": "rounded"
+        },
+        "aliases": [
+          "oval face",
+          "rounded oval face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_02",
+        "display_name": "Head 02",
+        "file": "heads/head_02.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 276,
+          "height": 425,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 180,
+          "y": 115,
+          "width": 276,
+          "height": 425,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "heart",
+          "face_width": "medium",
+          "jaw_shape": "soft",
+          "chin_shape": "pointed"
+        },
+        "aliases": [
+          "heart-shaped face",
+          "broad forehead pointed chin"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_03",
+        "display_name": "Head 03",
+        "file": "heads/head_03.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 271,
+          "height": 410,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 175,
+          "y": 136,
+          "width": 271,
+          "height": 410,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "heart",
+          "face_width": "medium",
+          "jaw_shape": "angular",
+          "chin_shape": "pointed"
+        },
+        "aliases": [
+          "angular heart-shaped face",
+          "tapered face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_04",
+        "display_name": "Head 04",
+        "file": "heads/head_04.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 270,
+          "height": 419,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 177,
+          "y": 127,
+          "width": 270,
+          "height": 419,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "triangular",
+          "face_width": "narrow",
+          "jaw_shape": "soft",
+          "chin_shape": "pointed"
+        },
+        "aliases": [
+          "triangular face",
+          "narrow pointed face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_05",
+        "display_name": "Head 05",
+        "file": "heads/head_05.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 271,
+          "height": 430,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 175,
+          "y": 113,
+          "width": 271,
+          "height": 430,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "round",
+          "face_width": "medium",
+          "jaw_shape": "rounded",
+          "chin_shape": "pointed"
+        },
+        "aliases": [
+          "round face",
+          "rounded face with pointed chin"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_06",
+        "display_name": "Head 06",
+        "file": "heads/head_06.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 263,
+          "height": 409,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 177,
+          "y": 132,
+          "width": 263,
+          "height": 409,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "square",
+          "face_width": "broad",
+          "jaw_shape": "square",
+          "chin_shape": "square"
+        },
+        "aliases": [
+          "square face",
+          "broad square face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_07",
+        "display_name": "Head 07",
+        "file": "heads/head_07.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 273,
+          "height": 419,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 174,
+          "y": 127,
+          "width": 273,
+          "height": 419,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "oblong",
+          "face_width": "narrow",
+          "jaw_shape": "soft",
+          "chin_shape": "rounded"
+        },
+        "aliases": [
+          "oblong face",
+          "long narrow face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_08",
+        "display_name": "Head 08",
+        "file": "heads/head_08.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 268,
+          "height": 433,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 176,
+          "y": 112,
+          "width": 268,
+          "height": 433,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "oblong",
+          "face_width": "broad",
+          "jaw_shape": "square",
+          "chin_shape": "rounded"
+        },
+        "aliases": [
+          "broad oblong face",
+          "long broad face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_09",
+        "display_name": "Head 09",
+        "file": "heads/head_09.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 271,
+          "height": 438,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 175,
+          "y": 109,
+          "width": 271,
+          "height": 438,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "square",
+          "face_width": "broad",
+          "jaw_shape": "rounded",
+          "chin_shape": "square"
+        },
+        "aliases": [
+          "broad face",
+          "rounded square face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "head_10",
+        "display_name": "Head 10",
+        "file": "heads/head_10.png",
+        "category": "heads",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "head",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 268,
+          "height": 433,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 175,
+          "y": 109,
+          "width": 268,
+          "height": 433,
+          "layer": "heads"
+        },
+        "attributes": {
+          "face_shape": "oval",
+          "face_width": "narrow",
+          "jaw_shape": "soft",
+          "chin_shape": "rounded"
+        },
+        "aliases": [
+          "long oval face",
+          "narrow oval face"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "hair": [
+      {
+        "id": "hair_01",
+        "display_name": "Hair 01",
+        "file": "hair/hair_01.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 524,
+          "height": 583,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 57,
+          "y": 1,
+          "width": 524,
+          "height": 583,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "long",
+          "hair_texture": "straight",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "long straight hair",
+          "long center-parted hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_02",
+        "display_name": "Hair 02",
+        "file": "hair/hair_02.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 457,
+          "height": 588,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 82,
+          "y": 11,
+          "width": 457,
+          "height": 588,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "medium",
+          "hair_texture": "straight",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "medium straight hair",
+          "straight bob hairstyle"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_03",
+        "display_name": "Hair 03",
+        "file": "hair/hair_03.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 555,
+          "height": 565,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 30,
+          "y": 11,
+          "width": 555,
+          "height": 565,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "long",
+          "hair_texture": "curly",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "long curly hair",
+          "long ringlet hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_04",
+        "display_name": "Hair 04",
+        "file": "hair/hair_04.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 392,
+          "height": 468,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 123,
+          "y": 21,
+          "width": 392,
+          "height": 468,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "medium",
+          "hair_texture": "straight",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "side-swept straight hair",
+          "medium side-parted hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_05",
+        "display_name": "Hair 05",
+        "file": "hair/hair_05.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 455,
+          "height": 526,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 81,
+          "y": 11,
+          "width": 455,
+          "height": 526,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "medium",
+          "hair_texture": "wavy",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "medium wavy hair",
+          "shoulder-length wavy hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_06",
+        "display_name": "Hair 06",
+        "file": "hair/hair_06.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 321,
+          "height": 302,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 150,
+          "y": 62,
+          "width": 321,
+          "height": 302,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "short",
+          "hair_texture": "straight",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "short straight hair",
+          "short combed hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_07",
+        "display_name": "Hair 07",
+        "file": "hair/hair_07.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 301,
+          "height": 278,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 162,
+          "y": 67,
+          "width": 301,
+          "height": 278,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "short",
+          "hair_texture": "straight",
+          "hairline": "high"
+        },
+        "aliases": [
+          "short cropped hair",
+          "short high-hairline style"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_08",
+        "display_name": "Hair 08",
+        "file": "hair/hair_08.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 400,
+          "height": 325,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 118,
+          "y": 26,
+          "width": 400,
+          "height": 325,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "short",
+          "hair_texture": "curly",
+          "hairline": "low"
+        },
+        "aliases": [
+          "short curly hair",
+          "dense curly hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_09",
+        "display_name": "Hair 09",
+        "file": "hair/hair_09.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 411,
+          "height": 361,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 101,
+          "y": 8,
+          "width": 411,
+          "height": 361,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "short",
+          "hair_texture": "wavy",
+          "hairline": "low"
+        },
+        "aliases": [
+          "short wavy hair",
+          "thick swept-back hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_10",
+        "display_name": "Hair 10",
+        "file": "hair/hair_10.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 306,
+          "height": 280,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 157,
+          "y": 77,
+          "width": 306,
+          "height": 280,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "very_short",
+          "hair_texture": "straight",
+          "hairline": "receding"
+        },
+        "aliases": [
+          "receding hairline",
+          "balding short hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_11",
+        "display_name": "Hair 11",
+        "file": "hair/hair_11.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "11.png"
+        },
+        "image": {
+          "width": 311,
+          "height": 291,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 155,
+          "y": 76,
+          "width": 311,
+          "height": 291,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "very_short",
+          "hair_texture": "straight",
+          "hairline": "high"
+        },
+        "aliases": [
+          "very short hair",
+          "high hairline"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "hair_12",
+        "display_name": "Hair 12",
+        "file": "hair/hair_12.png",
+        "category": "hair",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "hair",
+          "original_file": "12.png"
+        },
+        "image": {
+          "width": 476,
+          "height": 556,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 81,
+          "y": 7,
+          "width": 476,
+          "height": 556,
+          "layer": "hair"
+        },
+        "attributes": {
+          "hair_length": "long",
+          "hair_texture": "straight",
+          "hairline": "normal"
+        },
+        "aliases": [
+          "long straight side-parted hair",
+          "long layered hair"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "eyes": [
+      {
+        "id": "eyes_01",
+        "display_name": "Eyes 01",
+        "file": "eyes/eyes_01.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 218,
+          "height": 74,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 208,
+          "y": 273,
+          "width": 218,
+          "height": 74,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "round",
+          "eye_size": "large",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "large round eyes",
+          "wide open eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_02",
+        "display_name": "Eyes 02",
+        "file": "eyes/eyes_02.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 211,
+          "height": 66,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 215,
+          "y": 276,
+          "width": 211,
+          "height": 66,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "hooded",
+          "eye_size": "small",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "small hooded eyes",
+          "light narrow eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_03",
+        "display_name": "Eyes 03",
+        "file": "eyes/eyes_03.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 212,
+          "height": 64,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 211,
+          "y": 271,
+          "width": 212,
+          "height": 64,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "almond",
+          "eye_size": "medium",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "almond-shaped eyes",
+          "medium almond eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_04",
+        "display_name": "Eyes 04",
+        "file": "eyes/eyes_04.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 213,
+          "height": 66,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 215,
+          "y": 276,
+          "width": 213,
+          "height": 66,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "almond",
+          "eye_size": "medium",
+          "eye_spacing": "wide_set"
+        },
+        "aliases": [
+          "wide-set almond eyes",
+          "separated almond eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_05",
+        "display_name": "Eyes 05",
+        "file": "eyes/eyes_05.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 211,
+          "height": 64,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 211,
+          "y": 271,
+          "width": 211,
+          "height": 64,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "round",
+          "eye_size": "medium",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "medium round eyes",
+          "rounded eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_06",
+        "display_name": "Eyes 06",
+        "file": "eyes/eyes_06.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 214,
+          "height": 65,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 215,
+          "y": 276,
+          "width": 214,
+          "height": 65,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "hooded",
+          "eye_size": "medium",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "medium hooded eyes",
+          "deep-set hooded eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_07",
+        "display_name": "Eyes 07",
+        "file": "eyes/eyes_07.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 214,
+          "height": 65,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 211,
+          "y": 271,
+          "width": 214,
+          "height": 65,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "round",
+          "eye_size": "large",
+          "eye_spacing": "close_set"
+        },
+        "aliases": [
+          "large close-set eyes",
+          "prominent round eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_08",
+        "display_name": "Eyes 08",
+        "file": "eyes/eyes_08.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 213,
+          "height": 64,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 215,
+          "y": 276,
+          "width": 213,
+          "height": 64,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "narrow",
+          "eye_size": "medium",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "narrow eyes",
+          "medium narrow eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_09",
+        "display_name": "Eyes 09",
+        "file": "eyes/eyes_09.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 216,
+          "height": 66,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 211,
+          "y": 271,
+          "width": 216,
+          "height": 66,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "upturned",
+          "eye_size": "medium",
+          "eye_spacing": "wide_set"
+        },
+        "aliases": [
+          "upturned eyes",
+          "wide-set raised-corner eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_10",
+        "display_name": "Eyes 10",
+        "file": "eyes/eyes_10.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 212,
+          "height": 64,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 215,
+          "y": 276,
+          "width": 212,
+          "height": 64,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "almond",
+          "eye_size": "large",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "large almond eyes",
+          "prominent almond eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_11",
+        "display_name": "Eyes 11",
+        "file": "eyes/eyes_11.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "11.png"
+        },
+        "image": {
+          "width": 211,
+          "height": 64,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 211,
+          "y": 271,
+          "width": 211,
+          "height": 64,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "downturned",
+          "eye_size": "medium",
+          "eye_spacing": "average"
+        },
+        "aliases": [
+          "downturned eyes",
+          "lowered-corner eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyes_12",
+        "display_name": "Eyes 12",
+        "file": "eyes/eyes_12.png",
+        "category": "eyes",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyes",
+          "original_file": "12.png"
+        },
+        "image": {
+          "width": 213,
+          "height": 64,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 214,
+          "y": 272,
+          "width": 213,
+          "height": 64,
+          "layer": "eyes"
+        },
+        "attributes": {
+          "eye_shape": "hooded",
+          "eye_size": "small",
+          "eye_spacing": "close_set"
+        },
+        "aliases": [
+          "small hooded eyes",
+          "narrow close-set eyes"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "eyebrows": [
+      {
+        "id": "eyebrows_01",
+        "display_name": "Eyebrows 01",
+        "file": "eyebrows/eyebrows_01.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 219,
+          "height": 23,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 207,
+          "y": 260,
+          "width": 219,
+          "height": 23,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "straight",
+          "eyebrow_thickness": "thin",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "thin straight eyebrows",
+          "low straight brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_02",
+        "display_name": "Eyebrows 02",
+        "file": "eyebrows/eyebrows_02.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 246,
+          "height": 116,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 194,
+          "y": 213,
+          "width": 246,
+          "height": 116,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "soft_angled",
+          "eyebrow_thickness": "medium",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "soft angled eyebrows",
+          "medium angled brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_03",
+        "display_name": "Eyebrows 03",
+        "file": "eyebrows/eyebrows_03.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 238,
+          "height": 33,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 204,
+          "y": 254,
+          "width": 238,
+          "height": 33,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "arched",
+          "eyebrow_thickness": "thin",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "thin arched eyebrows",
+          "curved thin brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_04",
+        "display_name": "Eyebrows 04",
+        "file": "eyebrows/eyebrows_04.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 226,
+          "height": 32,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 210,
+          "y": 254,
+          "width": 226,
+          "height": 32,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "soft_angled",
+          "eyebrow_thickness": "thick",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "thick soft angled eyebrows",
+          "full angled brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_05",
+        "display_name": "Eyebrows 05",
+        "file": "eyebrows/eyebrows_05.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 237,
+          "height": 33,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 202,
+          "y": 258,
+          "width": 237,
+          "height": 33,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "hard_angled",
+          "eyebrow_thickness": "thick",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "thick hard angled eyebrows",
+          "bold angled brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_06",
+        "display_name": "Eyebrows 06",
+        "file": "eyebrows/eyebrows_06.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 235,
+          "height": 27,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 203,
+          "y": 257,
+          "width": 235,
+          "height": 27,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "high_arch",
+          "eyebrow_thickness": "medium",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "high arch eyebrows",
+          "raised arched brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_07",
+        "display_name": "Eyebrows 07",
+        "file": "eyebrows/eyebrows_07.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 241,
+          "height": 23,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 201,
+          "y": 259,
+          "width": 241,
+          "height": 23,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "straight",
+          "eyebrow_thickness": "thin",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "short thin straight eyebrows",
+          "fine straight brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_08",
+        "display_name": "Eyebrows 08",
+        "file": "eyebrows/eyebrows_08.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 253,
+          "height": 31,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 200,
+          "y": 255,
+          "width": 253,
+          "height": 31,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "rounded",
+          "eyebrow_thickness": "thin",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "thin rounded eyebrows",
+          "gently curved brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_09",
+        "display_name": "Eyebrows 09",
+        "file": "eyebrows/eyebrows_09.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 248,
+          "height": 24,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 203,
+          "y": 258,
+          "width": 248,
+          "height": 24,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "soft_angled",
+          "eyebrow_thickness": "thin",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "thin soft angled eyebrows",
+          "fine angled brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_10",
+        "display_name": "Eyebrows 10",
+        "file": "eyebrows/eyebrows_10.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 237,
+          "height": 27,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 203,
+          "y": 250,
+          "width": 237,
+          "height": 27,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "straight",
+          "eyebrow_thickness": "medium",
+          "eyebrow_spacing": "close"
+        },
+        "aliases": [
+          "medium straight eyebrows",
+          "close-set straight brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_11",
+        "display_name": "Eyebrows 11",
+        "file": "eyebrows/eyebrows_11.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "11.png"
+        },
+        "image": {
+          "width": 231,
+          "height": 25,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 208,
+          "y": 258,
+          "width": 231,
+          "height": 25,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "hard_angled",
+          "eyebrow_thickness": "medium",
+          "eyebrow_spacing": "separate"
+        },
+        "aliases": [
+          "medium hard angled eyebrows",
+          "defined angled brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "eyebrows_12",
+        "display_name": "Eyebrows 12",
+        "file": "eyebrows/eyebrows_12.png",
+        "category": "eyebrows",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "eyebrows",
+          "original_file": "12.png"
+        },
+        "image": {
+          "width": 227,
+          "height": 34,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 213,
+          "y": 249,
+          "width": 227,
+          "height": 34,
+          "layer": "eyebrows"
+        },
+        "attributes": {
+          "eyebrow_shape": "high_arch",
+          "eyebrow_thickness": "thin",
+          "eyebrow_spacing": "close"
+        },
+        "aliases": [
+          "thin high arch eyebrows",
+          "sharply raised brows"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "noses": [
+      {
+        "id": "nose_01",
+        "display_name": "Nose 01",
+        "file": "noses/nose_01.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 67,
+          "height": 81,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 284,
+          "y": 323,
+          "width": 67,
+          "height": 81,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "medium",
+          "nose_length": "short",
+          "nose_bridge": "low",
+          "nose_tip": "rounded"
+        },
+        "aliases": [
+          "short rounded nose",
+          "medium-width rounded nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_02",
+        "display_name": "Nose 02",
+        "file": "noses/nose_02.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 64,
+          "height": 73,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 287,
+          "y": 327,
+          "width": 64,
+          "height": 73,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "narrow",
+          "nose_length": "medium",
+          "nose_bridge": "straight",
+          "nose_tip": "pointed"
+        },
+        "aliases": [
+          "narrow straight nose",
+          "medium pointed nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_03",
+        "display_name": "Nose 03",
+        "file": "noses/nose_03.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 64,
+          "height": 83,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 286,
+          "y": 318,
+          "width": 64,
+          "height": 83,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "narrow",
+          "nose_length": "long",
+          "nose_bridge": "straight",
+          "nose_tip": "pointed"
+        },
+        "aliases": [
+          "long narrow nose",
+          "long straight pointed nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_04",
+        "display_name": "Nose 04",
+        "file": "noses/nose_04.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 72,
+          "height": 81,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 282,
+          "y": 327,
+          "width": 72,
+          "height": 81,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "narrow",
+          "nose_length": "medium",
+          "nose_bridge": "aquiline",
+          "nose_tip": "pointed"
+        },
+        "aliases": [
+          "aquiline nose",
+          "narrow curved pointed nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_05",
+        "display_name": "Nose 05",
+        "file": "noses/nose_05.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 62,
+          "height": 81,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 287,
+          "y": 326,
+          "width": 62,
+          "height": 81,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "narrow",
+          "nose_length": "short",
+          "nose_bridge": "low",
+          "nose_tip": "rounded"
+        },
+        "aliases": [
+          "small narrow nose",
+          "short rounded nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_06",
+        "display_name": "Nose 06",
+        "file": "noses/nose_06.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 72,
+          "height": 81,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 279,
+          "y": 319,
+          "width": 72,
+          "height": 81,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "broad",
+          "nose_length": "medium",
+          "nose_bridge": "low",
+          "nose_tip": "rounded"
+        },
+        "aliases": [
+          "broad rounded nose",
+          "wide medium nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_07",
+        "display_name": "Nose 07",
+        "file": "noses/nose_07.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 76,
+          "height": 94,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 279,
+          "y": 319,
+          "width": 76,
+          "height": 94,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "broad",
+          "nose_length": "long",
+          "nose_bridge": "straight",
+          "nose_tip": "rounded"
+        },
+        "aliases": [
+          "long broad nose",
+          "wide straight nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_08",
+        "display_name": "Nose 08",
+        "file": "noses/nose_08.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 86,
+          "height": 104,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 274,
+          "y": 319,
+          "width": 86,
+          "height": 104,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "broad",
+          "nose_length": "long",
+          "nose_bridge": "high",
+          "nose_tip": "rounded"
+        },
+        "aliases": [
+          "large broad nose",
+          "high-bridge rounded nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_09",
+        "display_name": "Nose 09",
+        "file": "noses/nose_09.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 64,
+          "height": 86,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 285,
+          "y": 312,
+          "width": 64,
+          "height": 86,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "narrow",
+          "nose_length": "long",
+          "nose_bridge": "aquiline",
+          "nose_tip": "downturned"
+        },
+        "aliases": [
+          "long aquiline nose",
+          "narrow downturned nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_10",
+        "display_name": "Nose 10",
+        "file": "noses/nose_10.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 77,
+          "height": 91,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 278,
+          "y": 315,
+          "width": 77,
+          "height": 91,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "medium",
+          "nose_length": "long",
+          "nose_bridge": "aquiline",
+          "nose_tip": "downturned"
+        },
+        "aliases": [
+          "long curved nose",
+          "medium aquiline nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_11",
+        "display_name": "Nose 11",
+        "file": "noses/nose_11.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "11.png"
+        },
+        "image": {
+          "width": 77,
+          "height": 63,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 277,
+          "y": 318,
+          "width": 77,
+          "height": 63,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "narrow",
+          "nose_length": "short",
+          "nose_bridge": "straight",
+          "nose_tip": "upturned"
+        },
+        "aliases": [
+          "short upturned nose",
+          "small narrow nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "nose_12",
+        "display_name": "Nose 12",
+        "file": "noses/nose_12.png",
+        "category": "noses",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "nose",
+          "original_file": "12.png"
+        },
+        "image": {
+          "width": 74,
+          "height": 67,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 280,
+          "y": 322,
+          "width": 74,
+          "height": 67,
+          "layer": "noses"
+        },
+        "attributes": {
+          "nose_width": "broad",
+          "nose_length": "short",
+          "nose_bridge": "low",
+          "nose_tip": "upturned"
+        },
+        "aliases": [
+          "broad upturned nose",
+          "short wide nose"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "lips": [
+      {
+        "id": "lips_01",
+        "display_name": "Lips 01",
+        "file": "lips/lips_01.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 94,
+          "height": 42,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 270,
+          "y": 433,
+          "width": 94,
+          "height": 42,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "medium",
+          "mouth_width": "medium"
+        },
+        "aliases": [
+          "medium lips",
+          "natural medium mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_02",
+        "display_name": "Lips 02",
+        "file": "lips/lips_02.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 99,
+          "height": 45,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 269,
+          "y": 428,
+          "width": 99,
+          "height": 45,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "full",
+          "mouth_width": "medium"
+        },
+        "aliases": [
+          "full lips",
+          "medium-width full mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_03",
+        "display_name": "Lips 03",
+        "file": "lips/lips_03.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 89,
+          "height": 39,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 274,
+          "y": 429,
+          "width": 89,
+          "height": 39,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "thin",
+          "mouth_width": "narrow"
+        },
+        "aliases": [
+          "thin narrow lips",
+          "small thin mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_04",
+        "display_name": "Lips 04",
+        "file": "lips/lips_04.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 118,
+          "height": 39,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 262,
+          "y": 432,
+          "width": 118,
+          "height": 39,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "thin",
+          "mouth_width": "wide"
+        },
+        "aliases": [
+          "thin wide lips",
+          "wide thin mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_05",
+        "display_name": "Lips 05",
+        "file": "lips/lips_05.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 114,
+          "height": 58,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 263,
+          "y": 427,
+          "width": 114,
+          "height": 58,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "full",
+          "mouth_width": "medium"
+        },
+        "aliases": [
+          "full rounded lips",
+          "plump medium mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_06",
+        "display_name": "Lips 06",
+        "file": "lips/lips_06.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 111,
+          "height": 49,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 264,
+          "y": 428,
+          "width": 111,
+          "height": 49,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "full",
+          "mouth_width": "medium"
+        },
+        "aliases": [
+          "full defined lips",
+          "medium full mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_07",
+        "display_name": "Lips 07",
+        "file": "lips/lips_07.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 81,
+          "height": 29,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 278,
+          "y": 432,
+          "width": 81,
+          "height": 29,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "thin",
+          "mouth_width": "narrow"
+        },
+        "aliases": [
+          "small thin lips",
+          "narrow closed mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_08",
+        "display_name": "Lips 08",
+        "file": "lips/lips_08.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 87,
+          "height": 29,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 277,
+          "y": 432,
+          "width": 87,
+          "height": 29,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "thin",
+          "mouth_width": "narrow"
+        },
+        "aliases": [
+          "narrow thin lips",
+          "small light lips"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_09",
+        "display_name": "Lips 09",
+        "file": "lips/lips_09.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 145,
+          "height": 55,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 244,
+          "y": 423,
+          "width": 145,
+          "height": 55,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "full",
+          "mouth_width": "wide"
+        },
+        "aliases": [
+          "wide full lips",
+          "broad plump mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_10",
+        "display_name": "Lips 10",
+        "file": "lips/lips_10.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 144,
+          "height": 54,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 245,
+          "y": 428,
+          "width": 144,
+          "height": 54,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "medium",
+          "mouth_width": "wide"
+        },
+        "aliases": [
+          "wide medium lips",
+          "broad natural mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_11",
+        "display_name": "Lips 11",
+        "file": "lips/lips_11.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "11.png"
+        },
+        "image": {
+          "width": 118,
+          "height": 39,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 261,
+          "y": 429,
+          "width": 118,
+          "height": 39,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "medium",
+          "mouth_width": "wide"
+        },
+        "aliases": [
+          "defined wide lips",
+          "wide medium mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "lips_12",
+        "display_name": "Lips 12",
+        "file": "lips/lips_12.png",
+        "category": "lips",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "lips",
+          "original_file": "12.png"
+        },
+        "image": {
+          "width": 106,
+          "height": 44,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 264,
+          "y": 428,
+          "width": 106,
+          "height": 44,
+          "layer": "lips"
+        },
+        "attributes": {
+          "lip_thickness": "full",
+          "mouth_width": "medium"
+        },
+        "aliases": [
+          "rounded full lips",
+          "medium rounded mouth"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "moustaches": [
+      {
+        "id": "moustache_01",
+        "display_name": "Moustache 01",
+        "file": "moustaches/moustache_01.png",
+        "category": "moustaches",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 157,
+          "height": 62,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 239,
+          "y": 397,
+          "width": 157,
+          "height": 62,
+          "layer": "moustaches"
+        },
+        "attributes": {
+          "moustache_style": "handlebar"
+        },
+        "aliases": [
+          "handlebar moustache",
+          "curved thick moustache"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "moustache_02",
+        "display_name": "Moustache 02",
+        "file": "moustaches/moustache_02.png",
+        "category": "moustaches",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 154,
+          "height": 47,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 240,
+          "y": 398,
+          "width": 154,
+          "height": 47,
+          "layer": "moustaches"
+        },
+        "attributes": {
+          "moustache_style": "thick"
+        },
+        "aliases": [
+          "thick moustache",
+          "full straight moustache"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "moustache_03",
+        "display_name": "Moustache 03",
+        "file": "moustaches/moustache_03.png",
+        "category": "moustaches",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 132,
+          "height": 56,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 251,
+          "y": 400,
+          "width": 132,
+          "height": 56,
+          "layer": "moustaches"
+        },
+        "attributes": {
+          "moustache_style": "thick"
+        },
+        "aliases": [
+          "bushy moustache",
+          "dense thick moustache"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "moustache_04",
+        "display_name": "Moustache 04",
+        "file": "moustaches/moustache_04.png",
+        "category": "moustaches",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 116,
+          "height": 54,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 261,
+          "y": 400,
+          "width": 116,
+          "height": 54,
+          "layer": "moustaches"
+        },
+        "attributes": {
+          "moustache_style": "thin"
+        },
+        "aliases": [
+          "thin moustache",
+          "light narrow moustache"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "moustache_05",
+        "display_name": "Moustache 05",
+        "file": "moustaches/moustache_05.png",
+        "category": "moustaches",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 143,
+          "height": 45,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 249,
+          "y": 399,
+          "width": 143,
+          "height": 45,
+          "layer": "moustaches"
+        },
+        "attributes": {
+          "moustache_style": "handlebar"
+        },
+        "aliases": [
+          "downturned handlebar moustache",
+          "curved moustache"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "moustache_06",
+        "display_name": "Moustache 06",
+        "file": "moustaches/moustache_06.png",
+        "category": "moustaches",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 117,
+          "height": 44,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 262,
+          "y": 401,
+          "width": 117,
+          "height": 44,
+          "layer": "moustaches"
+        },
+        "attributes": {
+          "moustache_style": "pencil"
+        },
+        "aliases": [
+          "pencil moustache",
+          "narrow defined moustache"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "beards": [
+      {
+        "id": "beard_01",
+        "display_name": "Beard 01",
+        "file": "beards/beard_01.png",
+        "category": "beards",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "07.png"
+        },
+        "image": {
+          "width": 135,
+          "height": 77,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 247,
+          "y": 478,
+          "width": 135,
+          "height": 77,
+          "layer": "beards"
+        },
+        "attributes": {
+          "beard_style": "goatee"
+        },
+        "aliases": [
+          "goatee",
+          "chin-centred beard"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "beard_02",
+        "display_name": "Beard 02",
+        "file": "beards/beard_02.png",
+        "category": "beards",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "08.png"
+        },
+        "image": {
+          "width": 247,
+          "height": 138,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 196,
+          "y": 422,
+          "width": 247,
+          "height": 138,
+          "layer": "beards"
+        },
+        "attributes": {
+          "beard_style": "full_beard"
+        },
+        "aliases": [
+          "full beard",
+          "dense lower-face beard"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "beard_03",
+        "display_name": "Beard 03",
+        "file": "beards/beard_03.png",
+        "category": "beards",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "09.png"
+        },
+        "image": {
+          "width": 267,
+          "height": 222,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 185,
+          "y": 345,
+          "width": 267,
+          "height": 222,
+          "layer": "beards"
+        },
+        "attributes": {
+          "beard_style": "chin_strap"
+        },
+        "aliases": [
+          "chin strap",
+          "jawline beard"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "beard_04",
+        "display_name": "Beard 04",
+        "file": "beards/beard_04.png",
+        "category": "beards",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "10.png"
+        },
+        "image": {
+          "width": 279,
+          "height": 224,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 180,
+          "y": 368,
+          "width": 279,
+          "height": 224,
+          "layer": "beards"
+        },
+        "attributes": {
+          "beard_style": "short_beard"
+        },
+        "aliases": [
+          "short beard",
+          "trimmed jaw beard"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "beard_05",
+        "display_name": "Beard 05",
+        "file": "beards/beard_05.png",
+        "category": "beards",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "11.png"
+        },
+        "image": {
+          "width": 263,
+          "height": 222,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 187,
+          "y": 338,
+          "width": 263,
+          "height": 222,
+          "layer": "beards"
+        },
+        "attributes": {
+          "beard_style": "van_dyke"
+        },
+        "aliases": [
+          "van dyke beard",
+          "pointed chin beard"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "beard_06",
+        "display_name": "Beard 06",
+        "file": "beards/beard_06.png",
+        "category": "beards",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "mustach",
+          "original_file": "12.png"
+        },
+        "image": {
+          "width": 277,
+          "height": 231,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 180,
+          "y": 342,
+          "width": 277,
+          "height": 231,
+          "layer": "beards"
+        },
+        "attributes": {
+          "beard_style": "full_beard"
+        },
+        "aliases": [
+          "full rounded beard",
+          "thick complete beard"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "ears": [
+      {
+        "id": "ear_01",
+        "display_name": "Ear 01",
+        "file": "ears/ear_01.png",
+        "category": "ears",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "more",
+          "original_file": "01.png"
+        },
+        "image": {
+          "width": 33,
+          "height": 114,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 162,
+          "y": 298,
+          "width": 33,
+          "height": 114,
+          "layer": "ears"
+        },
+        "attributes": {
+          "ear_size": "medium"
+        },
+        "aliases": [
+          "medium left ear",
+          "standard left ear"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "ear_02",
+        "display_name": "Ear 02",
+        "file": "ears/ear_02.png",
+        "category": "ears",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "more",
+          "original_file": "02.png"
+        },
+        "image": {
+          "width": 32,
+          "height": 117,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 432,
+          "y": 301,
+          "width": 32,
+          "height": 117,
+          "layer": "ears"
+        },
+        "attributes": {
+          "ear_size": "medium"
+        },
+        "aliases": [
+          "medium right ear",
+          "standard right ear"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "ear_03",
+        "display_name": "Ear 03",
+        "file": "ears/ear_03.png",
+        "category": "ears",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "more",
+          "original_file": "03.png"
+        },
+        "image": {
+          "width": 49,
+          "height": 121,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 150,
+          "y": 291,
+          "width": 49,
+          "height": 121,
+          "layer": "ears"
+        },
+        "attributes": {
+          "ear_size": "prominent"
+        },
+        "aliases": [
+          "prominent left ear",
+          "large projecting left ear"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "ear_04",
+        "display_name": "Ear 04",
+        "file": "ears/ear_04.png",
+        "category": "ears",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "more",
+          "original_file": "04.png"
+        },
+        "image": {
+          "width": 48,
+          "height": 120,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 434,
+          "y": 298,
+          "width": 48,
+          "height": 120,
+          "layer": "ears"
+        },
+        "attributes": {
+          "ear_size": "prominent"
+        },
+        "aliases": [
+          "prominent right ear",
+          "large projecting right ear"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "necks": [
+      {
+        "id": "neck_01",
+        "display_name": "Neck 01",
+        "file": "necks/neck_01.png",
+        "category": "necks",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "more",
+          "original_file": "05.png"
+        },
+        "image": {
+          "width": 236,
+          "height": 199,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 202,
+          "y": 411,
+          "width": 236,
+          "height": 199,
+          "layer": "necks"
+        },
+        "attributes": {
+          "neck_width": "broad"
+        },
+        "aliases": [
+          "broad neck",
+          "wide neck"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      },
+      {
+        "id": "neck_02",
+        "display_name": "Neck 02",
+        "file": "necks/neck_02.png",
+        "category": "necks",
+        "source": {
+          "project": "Third-Eye Java forensic sketch repository",
+          "category": "more",
+          "original_file": "06.png"
+        },
+        "image": {
+          "width": 209,
+          "height": 161,
+          "mode": "RGBA"
+        },
+        "placement": {
+          "canvas_width": 620,
+          "canvas_height": 620,
+          "x": 213,
+          "y": 434,
+          "width": 209,
+          "height": 161,
+          "layer": "necks"
+        },
+        "attributes": {
+          "neck_width": "medium"
+        },
+        "aliases": [
+          "medium neck",
+          "standard neck"
+        ],
+        "review_status": "provisional",
+        "enabled": true,
+        "review_notes": "Closest visual classification; confirm with domain reviewer"
+      }
+    ],
+    "glasses": [],
+    "marks": []
+  },
+  "semantic_review": {
+    "status": "provisional",
+    "updated_at": "2026-09-24T00:23:51+05:30",
+    "note": "Visual labels are provisional until confirmed by a domain reviewer."
+  }
+}

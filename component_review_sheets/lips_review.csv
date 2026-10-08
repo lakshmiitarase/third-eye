@@ -1,0 +1,13 @@
+id,category,file,display_name,lip_thickness,mouth_width,aliases,review_status,notes
+lips_01,lips,lips/lips_01.png,Lips 01,medium,medium,medium lips | natural medium mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_02,lips,lips/lips_02.png,Lips 02,full,medium,full lips | medium-width full mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_03,lips,lips/lips_03.png,Lips 03,thin,narrow,thin narrow lips | small thin mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_04,lips,lips/lips_04.png,Lips 04,thin,wide,thin wide lips | wide thin mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_05,lips,lips/lips_05.png,Lips 05,full,medium,full rounded lips | plump medium mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_06,lips,lips/lips_06.png,Lips 06,full,medium,full defined lips | medium full mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_07,lips,lips/lips_07.png,Lips 07,thin,narrow,small thin lips | narrow closed mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_08,lips,lips/lips_08.png,Lips 08,thin,narrow,narrow thin lips | small light lips,provisional,Closest visual classification; confirm with domain reviewer
+lips_09,lips,lips/lips_09.png,Lips 09,full,wide,wide full lips | broad plump mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_10,lips,lips/lips_10.png,Lips 10,medium,wide,wide medium lips | broad natural mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_11,lips,lips/lips_11.png,Lips 11,medium,wide,defined wide lips | wide medium mouth,provisional,Closest visual classification; confirm with domain reviewer
+lips_12,lips,lips/lips_12.png,Lips 12,full,medium,rounded full lips | medium rounded mouth,provisional,Closest visual classification; confirm with domain reviewer

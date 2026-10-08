@@ -1,0 +1,5 @@
+id,category,file,display_name,ear_size,aliases,review_status,notes
+ear_01,ears,ears/ear_01.png,Ear 01,medium,medium left ear | standard left ear,provisional,Closest visual classification; confirm with domain reviewer
+ear_02,ears,ears/ear_02.png,Ear 02,medium,medium right ear | standard right ear,provisional,Closest visual classification; confirm with domain reviewer
+ear_03,ears,ears/ear_03.png,Ear 03,prominent,prominent left ear | large projecting left ear,provisional,Closest visual classification; confirm with domain reviewer
+ear_04,ears,ears/ear_04.png,Ear 04,prominent,prominent right ear | large projecting right ear,provisional,Closest visual classification; confirm with domain reviewer

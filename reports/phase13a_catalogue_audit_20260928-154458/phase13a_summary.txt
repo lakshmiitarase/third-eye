@@ -1,0 +1,40 @@
+THIRD EYE PHASE 13A — READ-ONLY CATALOGUE AUDIT
+=================================================
+
+Created: 2026-09-28T15:44:59+05:30
+Catalogue: C:\Users\hp\OneDrive\Desktop\Resumes\Third-Eye project details - Copy\static\assets\face_components\catalog.json
+Catalogue SHA-256: 3cbe20174c9face16094064a84cd688218baf5a97fe532903ed21ed39528ac51
+Schema: 1.0
+Status: provisional_semantic_labels
+Components: 88
+Referenced PNGs: 88
+Actual PNGs: 88
+Review rows: 88
+Errors: 0
+Warnings: 3
+Sources unchanged: True
+
+Category counts:
+- beards: 6
+- ears: 4
+- eyebrows: 12
+- eyes: 12
+- glasses: 0
+- hair: 12
+- heads: 10
+- lips: 12
+- marks: 0
+- moustaches: 6
+- necks: 2
+- noses: 12
+
+Issues:
+- WARNING catalog.geometry_schema_missing: No canonical landmark or measured face-geometry schema is defined; short-vs-long or proportion-aware matching cannot be validated.
+- WARNING catalog.provisional_semantic_labels: Semantic component labels remain provisional and require domain-expert review.
+- WARNING reviews.all_components_provisional: All catalogue components remain provisional; no domain-expert-reviewed component is recorded.
+
+Limitations:
+- Semantic labels are not geometry measurements.
+- No canonical facial landmarks are present in schema version 1.0.
+- Placement rectangles can be validated, but witness similarity cannot be inferred.
+- Provisional labels require forensic-artist or domain-expert review.

@@ -1,0 +1,7 @@
+id,category,file,display_name,moustache_style,aliases,review_status,notes
+moustache_01,moustaches,moustaches/moustache_01.png,Moustache 01,handlebar,handlebar moustache | curved thick moustache,provisional,Closest visual classification; confirm with domain reviewer
+moustache_02,moustaches,moustaches/moustache_02.png,Moustache 02,thick,thick moustache | full straight moustache,provisional,Closest visual classification; confirm with domain reviewer
+moustache_03,moustaches,moustaches/moustache_03.png,Moustache 03,thick,bushy moustache | dense thick moustache,provisional,Closest visual classification; confirm with domain reviewer
+moustache_04,moustaches,moustaches/moustache_04.png,Moustache 04,thin,thin moustache | light narrow moustache,provisional,Closest visual classification; confirm with domain reviewer
+moustache_05,moustaches,moustaches/moustache_05.png,Moustache 05,handlebar,downturned handlebar moustache | curved moustache,provisional,Closest visual classification; confirm with domain reviewer
+moustache_06,moustaches,moustaches/moustache_06.png,Moustache 06,pencil,pencil moustache | narrow defined moustache,provisional,Closest visual classification; confirm with domain reviewer

@@ -1,0 +1,13 @@
+id,category,file,display_name,eyebrow_shape,eyebrow_thickness,eyebrow_spacing,aliases,review_status,notes
+eyebrows_01,eyebrows,eyebrows/eyebrows_01.png,Eyebrows 01,straight,thin,separate,thin straight eyebrows | low straight brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_02,eyebrows,eyebrows/eyebrows_02.png,Eyebrows 02,soft_angled,medium,separate,soft angled eyebrows | medium angled brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_03,eyebrows,eyebrows/eyebrows_03.png,Eyebrows 03,arched,thin,separate,thin arched eyebrows | curved thin brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_04,eyebrows,eyebrows/eyebrows_04.png,Eyebrows 04,soft_angled,thick,separate,thick soft angled eyebrows | full angled brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_05,eyebrows,eyebrows/eyebrows_05.png,Eyebrows 05,hard_angled,thick,separate,thick hard angled eyebrows | bold angled brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_06,eyebrows,eyebrows/eyebrows_06.png,Eyebrows 06,high_arch,medium,separate,high arch eyebrows | raised arched brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_07,eyebrows,eyebrows/eyebrows_07.png,Eyebrows 07,straight,thin,separate,short thin straight eyebrows | fine straight brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_08,eyebrows,eyebrows/eyebrows_08.png,Eyebrows 08,rounded,thin,separate,thin rounded eyebrows | gently curved brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_09,eyebrows,eyebrows/eyebrows_09.png,Eyebrows 09,soft_angled,thin,separate,thin soft angled eyebrows | fine angled brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_10,eyebrows,eyebrows/eyebrows_10.png,Eyebrows 10,straight,medium,close,medium straight eyebrows | close-set straight brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_11,eyebrows,eyebrows/eyebrows_11.png,Eyebrows 11,hard_angled,medium,separate,medium hard angled eyebrows | defined angled brows,provisional,Closest visual classification; confirm with domain reviewer
+eyebrows_12,eyebrows,eyebrows/eyebrows_12.png,Eyebrows 12,high_arch,thin,close,thin high arch eyebrows | sharply raised brows,provisional,Closest visual classification; confirm with domain reviewer

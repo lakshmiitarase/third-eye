@@ -1,0 +1,13 @@
+id,category,file,display_name,nose_width,nose_length,nose_bridge,nose_tip,aliases,review_status,notes
+nose_01,noses,noses/nose_01.png,Nose 01,medium,short,low,rounded,short rounded nose | medium-width rounded nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_02,noses,noses/nose_02.png,Nose 02,narrow,medium,straight,pointed,narrow straight nose | medium pointed nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_03,noses,noses/nose_03.png,Nose 03,narrow,long,straight,pointed,long narrow nose | long straight pointed nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_04,noses,noses/nose_04.png,Nose 04,narrow,medium,aquiline,pointed,aquiline nose | narrow curved pointed nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_05,noses,noses/nose_05.png,Nose 05,narrow,short,low,rounded,small narrow nose | short rounded nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_06,noses,noses/nose_06.png,Nose 06,broad,medium,low,rounded,broad rounded nose | wide medium nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_07,noses,noses/nose_07.png,Nose 07,broad,long,straight,rounded,long broad nose | wide straight nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_08,noses,noses/nose_08.png,Nose 08,broad,long,high,rounded,large broad nose | high-bridge rounded nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_09,noses,noses/nose_09.png,Nose 09,narrow,long,aquiline,downturned,long aquiline nose | narrow downturned nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_10,noses,noses/nose_10.png,Nose 10,medium,long,aquiline,downturned,long curved nose | medium aquiline nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_11,noses,noses/nose_11.png,Nose 11,narrow,short,straight,upturned,short upturned nose | small narrow nose,provisional,Closest visual classification; confirm with domain reviewer
+nose_12,noses,noses/nose_12.png,Nose 12,broad,short,low,upturned,broad upturned nose | short wide nose,provisional,Closest visual classification; confirm with domain reviewer

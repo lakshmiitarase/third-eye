@@ -1,0 +1,13 @@
+id,category,file,display_name,hair_length,hair_texture,hairline,aliases,review_status,notes
+hair_01,hair,hair/hair_01.png,Hair 01,long,straight,normal,long straight hair | long center-parted hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_02,hair,hair/hair_02.png,Hair 02,medium,straight,normal,medium straight hair | straight bob hairstyle,provisional,Closest visual classification; confirm with domain reviewer
+hair_03,hair,hair/hair_03.png,Hair 03,long,curly,normal,long curly hair | long ringlet hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_04,hair,hair/hair_04.png,Hair 04,medium,straight,normal,side-swept straight hair | medium side-parted hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_05,hair,hair/hair_05.png,Hair 05,medium,wavy,normal,medium wavy hair | shoulder-length wavy hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_06,hair,hair/hair_06.png,Hair 06,short,straight,normal,short straight hair | short combed hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_07,hair,hair/hair_07.png,Hair 07,short,straight,high,short cropped hair | short high-hairline style,provisional,Closest visual classification; confirm with domain reviewer
+hair_08,hair,hair/hair_08.png,Hair 08,short,curly,low,short curly hair | dense curly hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_09,hair,hair/hair_09.png,Hair 09,short,wavy,low,short wavy hair | thick swept-back hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_10,hair,hair/hair_10.png,Hair 10,very_short,straight,receding,receding hairline | balding short hair,provisional,Closest visual classification; confirm with domain reviewer
+hair_11,hair,hair/hair_11.png,Hair 11,very_short,straight,high,very short hair | high hairline,provisional,Closest visual classification; confirm with domain reviewer
+hair_12,hair,hair/hair_12.png,Hair 12,long,straight,normal,long straight side-parted hair | long layered hair,provisional,Closest visual classification; confirm with domain reviewer

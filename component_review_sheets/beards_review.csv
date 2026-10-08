@@ -1,0 +1,7 @@
+id,category,file,display_name,beard_style,aliases,review_status,notes
+beard_01,beards,beards/beard_01.png,Beard 01,goatee,goatee | chin-centred beard,provisional,Closest visual classification; confirm with domain reviewer
+beard_02,beards,beards/beard_02.png,Beard 02,full_beard,full beard | dense lower-face beard,provisional,Closest visual classification; confirm with domain reviewer
+beard_03,beards,beards/beard_03.png,Beard 03,chin_strap,chin strap | jawline beard,provisional,Closest visual classification; confirm with domain reviewer
+beard_04,beards,beards/beard_04.png,Beard 04,short_beard,short beard | trimmed jaw beard,provisional,Closest visual classification; confirm with domain reviewer
+beard_05,beards,beards/beard_05.png,Beard 05,van_dyke,van dyke beard | pointed chin beard,provisional,Closest visual classification; confirm with domain reviewer
+beard_06,beards,beards/beard_06.png,Beard 06,full_beard,full rounded beard | thick complete beard,provisional,Closest visual classification; confirm with domain reviewer

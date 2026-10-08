@@ -1,0 +1,13 @@
+id,category,file,display_name,eye_shape,eye_size,eye_spacing,aliases,review_status,notes
+eyes_01,eyes,eyes/eyes_01.png,Eyes 01,round,large,average,large round eyes | wide open eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_02,eyes,eyes/eyes_02.png,Eyes 02,hooded,small,average,small hooded eyes | light narrow eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_03,eyes,eyes/eyes_03.png,Eyes 03,almond,medium,average,almond-shaped eyes | medium almond eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_04,eyes,eyes/eyes_04.png,Eyes 04,almond,medium,wide_set,wide-set almond eyes | separated almond eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_05,eyes,eyes/eyes_05.png,Eyes 05,round,medium,average,medium round eyes | rounded eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_06,eyes,eyes/eyes_06.png,Eyes 06,hooded,medium,average,medium hooded eyes | deep-set hooded eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_07,eyes,eyes/eyes_07.png,Eyes 07,round,large,close_set,large close-set eyes | prominent round eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_08,eyes,eyes/eyes_08.png,Eyes 08,narrow,medium,average,narrow eyes | medium narrow eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_09,eyes,eyes/eyes_09.png,Eyes 09,upturned,medium,wide_set,upturned eyes | wide-set raised-corner eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_10,eyes,eyes/eyes_10.png,Eyes 10,almond,large,average,large almond eyes | prominent almond eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_11,eyes,eyes/eyes_11.png,Eyes 11,downturned,medium,average,downturned eyes | lowered-corner eyes,provisional,Closest visual classification; confirm with domain reviewer
+eyes_12,eyes,eyes/eyes_12.png,Eyes 12,hooded,small,close_set,small hooded eyes | narrow close-set eyes,provisional,Closest visual classification; confirm with domain reviewer

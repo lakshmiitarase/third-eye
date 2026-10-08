@@ -1,0 +1,41 @@
+.venv/
+gan_env/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+logs/
+backups/
+backup_phase9b_20260926-000942/
+
+# Generated/runtime files
+outputs/
+exports/
+
+# Local database
+*.db
+
+# Large model/checkpoint files
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+**/gan_env/
+.venv/
+gan_env/
+__pycache__/
+.env
+*-LAPTOP-*
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+stylegan2-ada-pytorch/

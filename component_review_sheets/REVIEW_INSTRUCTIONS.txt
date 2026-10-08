@@ -1,0 +1,59 @@
+THIRD EYE COMPONENT REVIEW INSTRUCTIONS
+=======================================
+
+1. Open one category CSV together with its contact-sheet image.
+2. Enter only values listed below. Do not invent new spellings.
+3. Use lowercase values exactly as shown.
+4. If uncertain, leave the value blank and keep review_status as pending.
+5. When reviewed, change review_status to reviewed.
+6. Separate multiple aliases with:  |  
+7. Do not change id, category, or file.
+
+ALLOWED VALUES
+--------------
+
+HEADS
+- face_shape: oval | round | square | heart | oblong | triangular
+- face_width: narrow | medium | broad
+- jaw_shape: soft | rounded | square | angular
+- chin_shape: rounded | pointed | square | double
+
+HAIR
+- hair_length: bald | very_short | short | medium | long
+- hair_texture: straight | wavy | curly | coily
+- hairline: low | normal | high | receding | widows_peak
+
+EYES
+- eye_shape: almond | round | narrow | hooded | upturned | downturned
+- eye_size: small | medium | large
+- eye_spacing: close_set | average | wide_set
+
+EYEBROWS
+- eyebrow_shape: straight | rounded | arched | high_arch | soft_angled | hard_angled
+- eyebrow_thickness: thin | medium | thick
+- eyebrow_spacing: separate | close | joined
+
+NOSES
+- nose_width: narrow | medium | broad
+- nose_length: short | medium | long
+- nose_bridge: low | straight | high | aquiline
+- nose_tip: pointed | rounded | upturned | downturned
+
+LIPS
+- lip_thickness: thin | medium | full
+- mouth_width: narrow | medium | wide
+
+MOUSTACHES
+- moustache_style: none | thin | pencil | thick | handlebar
+
+BEARDS
+- beard_style: none | stubble | short_beard | full_beard | goatee | chin_strap | soul_patch | van_dyke
+
+EARS
+- ear_size: small | medium | large | prominent
+
+NECKS
+- neck_width: narrow | medium | broad
+
+GLASSES
+- glasses: none | regular | round | rectangular | rimless | sunglasses
